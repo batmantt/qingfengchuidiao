@@ -1,0 +1,41 @@
+{
+  "status": "SUCCESS",
+  "result": [
+    {
+      "name": "你好",
+      "realName": "你好",
+      "offe": 0,
+      "newWorld": false,
+      "synonyms": null,
+      "subTerm": null,
+      "natureStr": "l"
+    },
+    {
+      "name": ",",
+      "realName": ",",
+      "offe": 0,
+      "newWorld": false,
+      "synonyms": null,
+      "subTerm": null,
+      "natureStr": "w"
+    },
+    {
+      "name": "怎么",
+      "realName": "怎么",
+      "offe": 0,
+      "newWorld": false,
+      "synonyms": null,
+      "subTerm": null,
+      "natureStr": "r"
+    },
+    {
+      "name": "购买",
+      "realName": "购买",
+      "offe": 0,
+      "newWorld": false,
+      "synonyms": null,
+      "subTerm": null,
+      "natureStr": "v"
+    }
+  ]
+}

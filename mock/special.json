@@ -1,0 +1,50 @@
+{
+    "status": "SUCCESS",
+    "result": [
+      {
+        "name": "陈一",
+        "realName": "陈一",
+        "offe": 0,
+        "newWorld": false,
+        "synonyms": null,
+        "subTerm": null,
+        "natureStr": "nr"
+      },
+      {
+        "name": "上海",
+        "realName": "上海",
+        "offe": 0,
+        "newWorld": false,
+        "synonyms": null,
+        "subTerm": null,
+        "natureStr": "ns"
+      },
+      {
+        "name": "基金会",
+        "realName": "基金会",
+        "offe": 0,
+        "newWorld": false,
+        "synonyms": null,
+        "subTerm": null,
+        "natureStr": "nt"
+      },
+      {
+        "name": "中旬",
+        "realName": "中旬",
+        "offe": 0,
+        "newWorld": false,
+        "synonyms": null,
+        "subTerm": null,
+        "natureStr": "t"
+      },
+      {
+        "name": "下旬",
+        "realName": "下旬",
+        "offe": 0,
+        "newWorld": false,
+        "synonyms": null,
+        "subTerm": null,
+        "natureStr": "t"
+      }
+    ]
+  }

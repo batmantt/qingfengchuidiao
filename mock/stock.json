@@ -1,0 +1,11 @@
+{
+  "status": "SUCCESS",
+  "result":{
+    "concept":[],
+    "industry":[{"name":"2"}],
+    "keywords":[{"name":"3"},{"name":"7"}],
+    "properNoum":[{"name":"4"}],
+    "stock":[{"name":"5"}],
+    "theme":null
+  }
+}
