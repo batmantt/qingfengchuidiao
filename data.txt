@@ -1,0 +1,115 @@
+微信小程序登录邮箱：cheroker_wzb@aliyun.com 密码：ancat**99
+
+AppID(小程序ID) wx276855121fc6f2e1 密码：ancat**99
+
+微信公众号登录邮箱：13585190517@163.com 密码：ancat**99
+
+Github 登录邮箱：983623486@qq.com
+密码：ancat**99
+
+腾讯云服务登录：983623486
+密码：ancat**99
+
+阿里云邮箱登录：cheroker_wzb@aliyun.com
+密码：ancat**99
+
+腾讯云服务：cheroker_wzb
+
+
+********************************
+微软：13585190517@163.com
+wzb0502
+密码：ancat**99
+
+网易云邮箱登录：13585190517@163.com
+密码：ancat**99
+
+七牛云登录：13585190517@163.com
+密码：ancat**99
+
+微信登录：13585190517
+密码：ancat**99
+
+github登录：983623486@qq.com
+密码：ancat**99
+
+Bmob：Application ID e3ea86b1dc9fa5ea8d75a958a2a95444
+      REST API Key：084c659a99f41ba28879ea6b14d03ee6
+      Secret Key:d4a6b1cf43825103
+      Master Key:4fcaf76128bb8f86b51e1beed2d6b1a9
+
+
+微信APPID：wx276855121fc6f2e1
+AppSecret：a80d598a41b3f1fe19b8aa364f56b365
+
+聚合数据登录 cheroker_wzb
+密码：ancat**99
+
+百度账号 13585190517
+密码：983623486
+
+
+*********************************************************
+英鮨
+公众号
+924519902@qq.com
+yingyi123456
+
+小程序
+1378410180@qq.com
+yingyi123456
+
+APPID:wx66f8b5c11e939b9f
+AppSecret:63482208f63ebd897d095cc4080eed44
+
+
+商户号：1497351602 
+
+
+又一城
+小程序登录账户：shanghuhao1@coldfir.com
+
+密码：yyc123456,
+**********************************************************
+
+小程序APPID: wxa84937b60b45c8a3
+
+小程序秘钥：7f92e1fd162fa8528b405ac6e6c22d1b
+
+商户号：1500099962
+商户API秘钥：7f92e1fd162fa8528b405ac6e6c22d1b
+
+myself_openid：oGNDh5PeOarW_WKUuC_6L1sGvzSQ
+
+
+youtube：
+wzb13585190517@gmail.com
+ancat**99
+13585190517@163.com
+*********************************************************************
+探狗
+AppID(小程序ID) wx5af7ff61e91b9f37
+密钥 beae6b4efdbe080c428d8fdb9963e92a
+公众平台帐号：ying.zhao@coldfir.com
+密码：Wk123456
+
+开机
+13585190517@163.com
+ancat**99
+
+谷歌：13585190517wzb@gmail.com
+ancat**99
+
+appid  wx6a6f27d3495ac929
+appsecret  ed1cad9d20dd27f5dbc097fec9e9ee87
+垂钓中心公众号
+
+GitLab  http://47.97.122.243:83/
+983623486@qq.com     password:weizhibing
+
+
+小程序登录账户：shanghuhao1@coldfir.com
+密码：yyc123456,
+微信公众号账户：szljyyc888@qq.com  
+密码：szljyyc2018
+
